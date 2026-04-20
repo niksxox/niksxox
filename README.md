@@ -69,7 +69,11 @@
   <a href="https://www.instagram.com/3xp3ll1armus/">
     <img src="https://img.shields.io/badge/instagram-f3e8ff?style=for-the-badge&logo=instagram&logoColor=black"/>
   </a>
+  <a href="mailto:nikitas.7927@gmail.com">
+    <img src="https://img.shields.io/badge/email-fce7f3?style=for-the-badge&logo=gmail&logoColor=black"/>
+  </a>
 </p>
+
 
 ---
 
