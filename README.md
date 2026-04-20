@@ -57,7 +57,7 @@
 ### 🌷 connect
 
 <p align="center">
-  <a href="www.linkedin.com/in/nikita-singh-912777342">
+  <a href="https://www.linkedin.com/in/nikita-singh-912777342">
     <img src="https://img.shields.io/badge/linkedin-fce7f3?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
   <a href="https://www.instagram.com/3xp3ll1armus/">
