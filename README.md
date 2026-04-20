@@ -14,9 +14,15 @@
 
 ### 🌿 about
 
-* engineering student
-* working with java, python, and web tech
-* building projects around real data
+* 🎓 engineering student who somehow ended up liking both code and data
+* 💻 working with java, python, and web tech (currently making them all get along)
+* 📊 building projects that are not just pretty but actually do something
+* 🦢 figuring things out one bug at a time
+
+<br>
+
+* 🫖 outside of code: pilates, green tea, and reading (keeps the brain functional)
+
 
 ---
 
