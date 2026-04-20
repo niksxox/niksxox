@@ -1,5 +1,9 @@
-<img src="https://pin.it/7hHkqD1UI" width="100%">
+<img src="[https://pin.it/7hHkqD1UI](https://i.pinimg.com/1200x/0f/48/9e/0f489e1fab759a0e999050fa89d94c30.jpg)" width="100%">
 <div align="center">
+
+<img src="YOUR_BANNER_LINK_HERE" width="100%"/>
+
+<br/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=24&duration=3000&color=C4A3B5&center=true&vCenter=true&width=500&lines=Nikita+Singh;Full+Stack+%2B+Data+Analytics" />
 
@@ -7,7 +11,7 @@
 
 ---
 
-### about
+### 🌿 about
 
 * engineering student
 * full stack (java) + data analytics (python)
@@ -15,7 +19,7 @@
 
 ---
 
-### tech
+### 🍡 tech
 
 <p>
   <img src="https://img.shields.io/badge/java-f3e8ff?style=for-the-badge&logo=java&logoColor=black"/>
@@ -28,16 +32,16 @@
 
 ---
 
-### projects
+### 🍵 projects
 
-* 📊 **netflix data pipeline** — python, mysql
-* 🎵 **music player (dll)** — java
-* ⏱ **study timer** — javascript
-* 📈 **data dashboard** — html
+* 📊 netflix data pipeline — python, mysql
+* 🎵 music player (dll) — java
+* ⏱ study timer — javascript
+* 📈 data dashboard — html
 
 ---
 
-### stats
+### 🫧 stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=niksxox&show_icons=true&theme=rose_pine&hide_border=true"/>
@@ -49,11 +53,11 @@
 
 ---
 
-### connect
+### 🎐 little corner
 
 <p align="center">
-  <a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/linkedin-fce7f3?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/email-f3e8ff?style=for-the-badge&logo=gmail&logoColor=black"/></a>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200"/>
 </p>
 
 ---
+
