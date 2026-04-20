@@ -54,12 +54,24 @@
 
 ---
 
-### 🎐 little corner
+### 🌷 connect
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200"/>
+  <a href="www.linkedin.com/in/nikita-singh-912777342">
+    <img src="https://img.shields.io/badge/linkedin-fce7f3?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
+  <a href="https://www.instagram.com/3xp3ll1armus/">
+    <img src="https://img.shields.io/badge/instagram-f3e8ff?style=for-the-badge&logo=instagram&logoColor=black"/>
+  </a>
 </p>
 
 ---
 
+### 🎐 little corner
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="220"/>
+</p>
+
+---
 
