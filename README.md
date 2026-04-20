@@ -1,11 +1,12 @@
-<img src="[https://pin.it/7hHkqD1UI](https://i.pinimg.com/1200x/0f/48/9e/0f489e1fab759a0e999050fa89d94c30.jpg)" width="100%">
 <div align="center">
 
-<img src="YOUR_BANNER_LINK_HERE" width="100%"/>
+<img src="https://i.pinimg.com/1200x/0f/48/9e/0f489e1fab759a0e999050fa89d94c30.jpg" width="100%"/>
 
-<br/>
+<br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=24&duration=3000&color=C4A3B5&center=true&vCenter=true&width=500&lines=Nikita+Singh;Full+Stack+%2B+Data+Analytics" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=26&duration=4500&pause=1000&color=C4A3B5&center=true&vCenter=true&width=400&lines=Nikita+Singh" />
+
+<p style="color:#9CA3AF;">full stack • data analytics</p>
 
 </div>
 
@@ -14,8 +15,8 @@
 ### 🌿 about
 
 * engineering student
-* full stack (java) + data analytics (python)
-* building projects that actually work with data
+* working with java, python, and web tech
+* building projects around real data
 
 ---
 
@@ -60,4 +61,5 @@
 </p>
 
 ---
+
 
