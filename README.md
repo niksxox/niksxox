@@ -44,7 +44,7 @@
 * 📊 netflix data pipeline — python, mysql
 * 🎵 music player (dll) — java
 * ⏱ study timer — javascript
-* 📈 data dashboard — html
+* 📈 data dashboard — java, python, html
 
 ---
 
