@@ -45,7 +45,7 @@
 * 🎵 music player (dll) — java
 * ⏱ study timer — javascript
 * 📈 data dashboard — java, python, html
-
+* 🗂️ Github Intelligence Dashboard - MERN stack
 ---
 
 ### 🫧 stats
